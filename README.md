@@ -1,1 +1,1 @@
-# Magic-UI
+# Magic UI
