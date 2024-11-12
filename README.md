@@ -5,8 +5,8 @@
 
 ## Devs
 
-<a href="https://github.com/jasurhaydarovcode/Magic-UI-Clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jasurhaydarovcode/Magic-UI-Clone" />
+<a href="https://github.com/Khujamovcodes/Magic-UI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Khujamovcodes/Magic-UI" />
 </a>
 
 ## Stats
