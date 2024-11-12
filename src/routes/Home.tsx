@@ -1,11 +1,10 @@
-import AnimatedGridPattern from "@/components/ui/animated-grid-pattern.js";
-import WordFadeIn from "@/components/ui/word-fade-in.js";
+import Navbar from "@/components/Dashboard/Navbar.tsx";
 
 const Home = () => {
     return (
-        <div>
-            <AnimatedGridPattern/>
-            <WordFadeIn words={ "Salom bu magic ui" }/>
+        <div className="container">
+            {/*<AnimatedGridPattern/>*/}
+            <Navbar/>
         </div>
     );
 }
